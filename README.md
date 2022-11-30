@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Stalone18Github/Stalone18Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1
+  style="
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(33, 179, 228);
+    color: white;
+    padding: 20px;
+    margin: 0;
+  "
+  align="center"
+>
+  Olá bem vindo ao meu repositório 🤗
+</h1>
